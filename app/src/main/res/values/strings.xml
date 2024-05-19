@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidHW1</string>
+    <string name="creator">Homework assignment 1\nMatan Haver</string>
+    <string name="calc_btn">Calculate</string>
+    <string name="error">"Error: %s"</string>
+    <string name="init_num">0</string>
+</resources>
